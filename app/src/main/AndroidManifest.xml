@@ -9,9 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Modul3">
-<!--        <activity android:name=".register"></activity>-->
+<!--        <activity android:name=".counterpain"></activity>-->
+        <!-- <activity android:name=".register"></activity> -->
         <!-- <activity android:name=".login"></activity> -->
-        <activity android:name=".register">
+        <activity android:name=".counterpain">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
